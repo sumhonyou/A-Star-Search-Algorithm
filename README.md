@@ -13,4 +13,4 @@ Each movement incurs a cost influenced by step and energy multipliers, which cha
 - A plotted map visualization of the path taken
 - Console output summarizing the optimal route and cost metrics
 
-This project was developed for the CSC3206 Artificial Intelligence course and demonstrates practical skills in heuristic search, pathfinding under constraints, and adaptive cost modeling.
+This project was developed for the Artificial Intelligence course and demonstrates practical skills in heuristic search, pathfinding under constraints, and adaptive cost modeling.
