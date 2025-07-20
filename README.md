@@ -1,7 +1,7 @@
 # A-Star-Search-Algorithm
 
 ## Project Description
-[Implemented A* search algorithm to solve a maze problem]
+Project Title: Implemented A* search algorithm to solve a maze problem
 
 This project implements an A* search algorithm to solve a treasure hunt problem in a virtual hexagonal grid environment. The objective is to compute the most cost-efficient path that collects all treasures while accounting for dynamic conditions introduced by traps, rewards, and obstacles.
 
